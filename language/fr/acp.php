@@ -50,7 +50,7 @@ $lang = array_merge($lang, array(
 	'ACP_CUSTOMCODE_SAVE_PURGE_CACHE_CONFIRM'	=> 'Voulez-vous sauvegarde le fichier %s et vider le cache ?',
 	'ACP_CUSTOMCODE_FILE_SAVED'					=> 'Le fichier %s a été sauvegardé avec succès !',
 	'ACP_CUSTOMCODE_FILE_SAVED_CACHE_PURGED'	=> 'Le fichier %s a été sauvegardé et le cache a été vidé avec succès !',
-	'ACP_CUSTOMCODE_NOT_WRITABLE'				=> 'Le fichier %s n’est pas inscriptible.',
+	'ACP_CUSTOMCODE_NOT_WRITABLE'				=> 'Le fichier %s n’est pas accessible en écriture.',
 	'ACP_CUSTOMCODE_FILE_CREATED'				=> 'Le fichier %s a été créé.',
 	'ACP_CUSTOMCODE_FILENAME_EMPTY'				=> 'Le nom du fichier était vide.',
 	'ACP_CUSTOMCODE_FILE_NOT_CREATED'			=> 'Le fichier %s n’a pas pu être créé.',
@@ -61,7 +61,7 @@ $lang = array_merge($lang, array(
 	'ACP_CUSTOMCODE_FILE_NOT_DELETED'			=> 'Impossible de supprimer le fichier %s.',
 	'ACP_CUSTOMCODE_EVENT_FILE_INDICATOR'		=> '(E)',
 	'ACP_CUSTOMCODE_SHOW_TEMPLATE_EVENTS_LOCATIONS'	=> 'Afficher le code personnalisé dans les emplacements des évènements du template',
-	'ACP_CUSTOMCODE_HIDE_TEMPLATE_EVENTS_LOCATIONS'	=> 'Cacher le code personnalisé dans les emplacements des évènements du template',
+	'ACP_CUSTOMCODE_HIDE_TEMPLATE_EVENTS_LOCATIONS'	=> 'Masquer le code personnalisé dans les emplacements des évènements du template',
 	'ACP_CUSTOMCODE_DIRECTORY_NOT_CREATED'		=> 'Impossible de créer le répertoire %s',
 
 ));
