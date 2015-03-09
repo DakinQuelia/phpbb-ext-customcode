@@ -38,7 +38,7 @@ $lang = array_merge($lang, array(
 	'ACP_CUSTOMCODE_CREATE_FILE'				=> 'Créer un fichier',
 	'ACP_CUSTOMCODE_DELETE'						=> 'Supprimer',
 	'ACP_CUSTOMCODE_DELETE_FILE_NAME'			=> 'Supprimer %s',
-	'ACP_CUSTOMCODE_FILES_EXPLAIN'				=> 'Les fichiers incluant directement des events du template %1$s ne peuvent être supprimés. Tous les fichiers présents dans le répertoire %2$s.',
+	'ACP_CUSTOMCODE_FILES_EXPLAIN'				=> 'Les fichiers incluant directement des évènements du template %1$s ne peuvent être supprimés. Tous les fichiers présents dans le répertoire %2$s.',
 	'ACP_CUSTOMCODE_FILE_SIZE'					=> 'Taille',
 	'ACP_CUSTOMCODE_FILE_NAME'					=> 'Nom',
 	'ACP_CUSTOMCODE_FILE_COMMENT'				=> 'Commentaire',
@@ -60,8 +60,8 @@ $lang = array_merge($lang, array(
 	'ACP_CUSTOMCODE_FILE_DOES_NOT_EXIST'		=> 'Le fichier %s n’existe pas.',
 	'ACP_CUSTOMCODE_FILE_NOT_DELETED'			=> 'Impossible de supprimer le fichier %s.',
 	'ACP_CUSTOMCODE_EVENT_FILE_INDICATOR'		=> '(E)',
-	'ACP_CUSTOMCODE_SHOW_TEMPLATE_EVENTS_LOCATIONS'	=> 'Afficher le coder personnalisé dans les emplacements des events du template',
-	'ACP_CUSTOMCODE_HIDE_TEMPLATE_EVENTS_LOCATIONS'	=> 'Cacher le coder personnalisé dans les emplacements des events du template',
+	'ACP_CUSTOMCODE_SHOW_TEMPLATE_EVENTS_LOCATIONS'	=> 'Afficher le code personnalisé dans les emplacements des évènements du template',
+	'ACP_CUSTOMCODE_HIDE_TEMPLATE_EVENTS_LOCATIONS'	=> 'Cacher le code personnalisé dans les emplacements des évènements du template',
 	'ACP_CUSTOMCODE_DIRECTORY_NOT_CREATED'		=> 'Impossible de créer le répertoire %s',
 
 ));
